@@ -1,0 +1,42 @@
+[
+{
+  "id": "poster-empire-billiards-club",
+  "project_name": "Poster Design - Empire Billiards Club",
+  "project_thumbnail_url": "https://ik.imagekit.io/ljvorpiit/Empire%20billards/1.jpg?updatedAt=1752680182583",
+  "project_category": "Poster",
+  "project_date": "June 15, 2025",
+  "client_name": "Empire Billiards Club",
+  "project_summary": "Promotional poster design for Empire Billiards Club, highlighting its 24/7 operations, spacious venue, and premium entertainment experience.",
+  "project_description_detailed": "A bold black-and-gold poster showcasing the club’s key amenities: entrance lobby, bar, and high-end billiards area. Main messages include 'Open 24H', '400m² space', and 'VIP equipment', aimed at attracting modern, urban billiards enthusiasts.",
+  "tools_used": ["Adobe Photoshop", "Adobe Illustrator"],
+  "project_live_url": "",
+  "project_case_study_url": "",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/ljvorpiit/Empire%20billards/1.jpg?updatedAt=1752680182583",
+      "alt_text": "Promotional poster for Empire Billiards Club – a high-end billiards venue open 24/7 in Hanoi.",
+      "caption": "Poster highlighting luxurious interior, bar, and 24H operation – appealing to sports and nightlife lovers."
+    },
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/ljvorpiit/Empire%20billards/2.jpg?updatedAt=1752680182728",
+      "alt_text": "Empire Billiards Club grand opening poster – exciting promotions from July 1 to July 15.",
+      "caption": "Grand opening poster featuring limited-time offers: free play, discounts, and complimentary drinks/snacks."
+    },
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/ljvorpiit/Empire%20billards/3.jpg?updatedAt=1752680182874",
+      "alt_text": "Empire Billiards Club poster – Tournament-grade billiards experience with high-end tables and spacious venue.",
+      "caption": "Poster showcasing professional-grade setup with RASSON tables, VIP zones, and CPBA-standard equipment."
+    }
+  ]
+}
+
+
+
+
+]
+
+
+
