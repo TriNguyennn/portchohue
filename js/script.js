@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
       el.textContent = lang === 'vi' ? originalTexts[key] : translations[key] || originalTexts[key];
     });
     document.documentElement.lang = lang;
-    document.title = lang === "vi" ? "Portfolio Thiết Kế" : "Design Portfolio";
+    document.title = lang === "vi" ? "Portfolio Marketing" : "Design Portfolio";
   }
 
   // Hàm làm sạch HTML để chống XSS
