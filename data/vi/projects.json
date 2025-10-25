@@ -1,11 +1,11 @@
 [
 {
-  "id": "Món Cơm Việt Nam",
+  "id": "Học tập 1",
   "project_name": "Brouchure - Món Cơm Việt Nam",
   "project_thumbnail_url": "https://ik.imagekit.io/Moon05/Brouchure/1.png?updatedAt=1761403533154",
   "project_category": "Brouchure",
   "project_date": "05 tháng 05 năm 2025",
-  "client_name": "Van Lang University",
+  "client_name": "Education - Van Lang University",
   "project_summary": "Brouchure thể hiện bản sắc ẩm thực Việt Nam qua hạt gạo và những món cơm đặc trưng ba miền.",
   "project_description_detailed": "Thiết kế kể câu chuyện về cách hạt gạo gắn kết văn hóa và con người Việt Nam, giới thiệu các món cơm tiêu biểu: cơm lam (miền Bắc), cơm gà Hội An (miền Trung), và cơm tấm Sài Gòn (miền Nam).",
   "tools_used": ["Adobe Illustrator", "Photoshop", "Canva"],
@@ -55,7 +55,7 @@
 
 ,
 {
-  "id": "cuoi hoi hanh phuc",
+  "id": "Hạnh phúc 1",
   "project_name": "Hạnh Phúc – Dịch vụ trang trí cưới hỏi",
   "project_thumbnail_url": "https://ik.imagekit.io/Moon05/H%E1%BA%A1nh%20Ph%C3%BAc/Banner%20%20Danh%20thi%E1%BA%BFp%20HP.png?updatedAt=1761404925785",
   "project_category": "Danh thiếp",
@@ -108,10 +108,10 @@
 },
 
 {
-  "id": "dv cuoi hoi hanh phuc",
+  "id": "Hạnh phúc 2",
   "project_name": "Hạnh Phúc – Dịch vụ trang trí cưới hỏi",
   "project_thumbnail_url": "https://ik.imagekit.io/Moon05/H%E1%BA%A1nh%20Ph%C3%BAc/Logo%20C%C6%B0%E1%BB%9Bi%20H%E1%BB%8Fi%20HP%20(2).png?updatedAt=1761405480214",
-  "project_category": "Thiết kế Logo | Nhận diện thương hiệu",
+  "project_category": "Logo",
   "project_date": "30 tháng 09 năm 2024",
   "client_name": "Hạnh Phúc",
   "project_summary": "Logo được thiết kế nhằm thể hiện sự tinh tế, ấm áp và sang trọng của thương hiệu “Hạnh Phúc” – dịch vụ chuyên trang trí cưới hỏi.",
@@ -127,6 +127,202 @@
       "caption": ""
     }
     
+  ]
+},
+
+{
+  "id": "Học tập 2",
+  "project_name": "Act Green – Breathe Clean",
+  "project_thumbnail_url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Nguy%E1%BB%85n%20Th%E1%BB%8B%20Ng%E1%BB%8Dc%20Hu%E1%BB%87__GAIATEAM__HuongToiTuyenTruyenLoiSongXanh_0344794500.png?updatedAt=1761410543987",
+  "project_category": "Environmental Poster",
+  "project_date": "01 tháng 7 năm 2025",
+  "client_name": "Education - Van Lang University",
+  "project_summary": "Poster được thiết kế nhằm khuyến khích mọi người hành động vì môi trường, giảm ô nhiễm và bảo vệ Trái Đất xanh – sạch – đẹp.",
+  "project_description_detailed": "Thiết kế sử dụng gam màu xanh dịu mắt, tượng trưng cho sự sống và hy vọng. Hình ảnh đôi tay nâng đỡ Trái Đất thể hiện thông điệp nhân văn: “Hành động xanh hôm nay – hít thở sạch ngày mai.” Bố cục hài hòa giữa con người và thiên nhiên, tạo cảm giác tích cực và truyền cảm hứng sống bền vững.",
+  "tools_used": ["Canva", "Adobe Illustrator", "Photoshop"],
+  "project_live_url": "",
+  "project_case_study_url": "",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Nguy%E1%BB%85n%20Th%E1%BB%8B%20Ng%E1%BB%8Dc%20Hu%E1%BB%87__GAIATEAM__HuongToiTuyenTruyenLoiSongXanh_0344794500.png?updatedAt=1761410543987",
+      "alt_text": "",
+      "caption": ""
+    }
+    
+  ]
+},
+
+{
+  "id": "Học tập 3",
+  "project_name": "Không Khí Sạch Là Quyền Của Mỗi Người",
+  "project_thumbnail_url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/L%E1%BB%9Bp%2006_Nguy%E1%BB%85n%20Th%E1%BB%8B%20Ng%E1%BB%8Dc%20Hu%E1%BB%87%20(1).jpg?updatedAt=1761411198415",
+  "project_category": "Environmental Poster",
+  "project_date": "30 tháng 06 năm 2025",
+  "client_name": "Education - Van Lang University",
+  "project_summary": "Dự án thể hiện thực trạng ô nhiễm không khí tại TP.HCM, tác hại đến sức khỏe và môi trường, đồng thời đề xuất các giải pháp giảm thiểu ô nhiễm trong giai đoạn 2024–2025.",
+  "project_description_detailed": "Poster trình bày số liệu về nồng độ bụi mịn PM2.5, khí CO, NO₂ và các tác động tiêu cực của ô nhiễm không khí đến sức khỏe con người, kinh tế và môi trường. Thiết kế kết hợp biểu đồ, icon và màu sắc dễ nhìn, giúp người xem dễ dàng tiếp cận thông tin và nhận thức rõ thông điệp: “Không khí sạch là quyền của mỗi người.",
+  "tools_used": ["Canva", "Adobe Illustrator", "Photoshop"],
+  "project_live_url": "",
+  "project_case_study_url": "",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/L%E1%BB%9Bp%2006_Nguy%E1%BB%85n%20Th%E1%BB%8B%20Ng%E1%BB%8Dc%20Hu%E1%BB%87%20(1).jpg?updatedAt=1761411198415",
+      "alt_text": "",
+      "caption": ""
+    },
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/L%E1%BB%9Bp%2006_Nguy%E1%BB%85n%20Th%E1%BB%8B%20Ng%E1%BB%8Dc%20Hu%E1%BB%87%20(2).jpg?updatedAt=1761411198409",
+      "alt_text": "",
+      "caption": ""
+    }
+
+  ]
+},
+
+{
+  "id": "Học tập 4",
+  "project_name": "VLU Study",
+  "project_thumbnail_url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Home.png?updatedAt=1761412283063",
+  "project_category": "Landing Page",
+  "project_date": "July 30, 2023",
+  "client_name": "Education - Van Lang University",
+  "project_summary": "Landing page giới thiệu VLU Study – kho tài liệu học tập khổng lồ, cung cấp giáo trình, bài giảng, đề thi và tài liệu tham khảo cho sinh viên Đại học Văn Lang.",
+  "project_description_detailed": "Thiết kế mang phong cách hiện đại, thể hiện sự năng động và tinh thần học hỏi không ngừng của sinh viên. Poster nhấn mạnh 4 ưu điểm nổi bật: Kho tài liệu đa ngành, Chất lượng đảm bảo, Tìm kiếm thông minh, và Tải miễn phí không giới hạn – giúp sinh viên tiếp cận tri thức mọi lúc, mọi nơi.",
+  "tools_used": ["Canva"],
+  "project_live_url": "",
+  "project_case_study_url": "",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/1.png?updatedAt=1761412558712",
+      "alt_text": "",
+      "caption": ""
+    },
+     {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/2.png?updatedAt=1761412558704",
+      "alt_text": "",
+      "caption": ""
+    },
+     {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/3.png?updatedAt=1761412558871",
+      "alt_text": "",
+      "caption": ""
+    },
+     {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/4.png?updatedAt=1761412558787",
+      "alt_text": "",
+      "caption": ""
+    },
+     {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/5.png?updatedAt=1761412558827",
+      "alt_text": "",
+      "caption": ""
+    },
+     {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/6.png?updatedAt=1761412558679",
+      "alt_text": "",
+      "caption": ""
+    },
+     {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/7.png?updatedAt=1761412558813",
+      "alt_text": "",
+      "caption": ""
+    },
+     {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/8.png?updatedAt=1761412558659",
+      "alt_text": "",
+      "caption": ""
+    }
+
+  ]
+}
+,
+
+{
+  "id": "Học tập 5",
+  "project_name": "VLU Study",
+  "project_thumbnail_url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/Website/9.png?updatedAt=1761413133313",
+  "project_category": "Web Design",
+  "project_date": "July 30, 2023",
+  "client_name": "Education - Van Lang University",
+  "project_summary": "VLU Study là nền tảng học tập trực tuyến dành cho sinh viên Đại học Văn Lang, cung cấp miễn phí giáo trình, bài giảng, đề thi và tài liệu học tập của tất cả các khoa.",
+  "project_description_detailed": "Website được thiết kế với giao diện thân thiện, dễ sử dụng, giúp sinh viên dễ dàng tìm kiếm, xem và tải tài liệu đã được kiểm duyệt. Hệ thống phân loại rõ ràng, cập nhật liên tục và có tính năng tương tác cộng đồng, hỗ trợ sinh viên chia sẻ và học hỏi hiệu quả hơn.",
+  "tools_used": ["Figma", "WordPress"],
+  "project_live_url": "",
+  "project_case_study_url": "",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/Website/9.png?updatedAt=1761413133313",
+      "alt_text": "",
+      "caption": "Trang chủ"
+    },
+     {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/Website/10.png?updatedAt=1761413133262",
+      "alt_text": "",
+      "caption": "Giao diện chính"
+    },
+     {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/Website/11.png?updatedAt=1761413133240",
+      "alt_text": "",
+      "caption": "Đăng bài"
+    },
+     {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/Website/12.png?updatedAt=1761413133195",
+      "alt_text": "",
+      "caption": ""
+    },
+     {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/Website/13.png?updatedAt=1761413133164",
+      "alt_text": "",
+      "caption": ""
+    },
+     {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/Website/14.png?updatedAt=1761413133230",
+      "alt_text": "",
+      "caption": ""
+    },
+     {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/Website/15.png?updatedAt=1761413133221",
+      "alt_text": "",
+      "caption": ""
+    },
+     {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/Website/16.png?updatedAt=1761413133237",
+      "alt_text": "",
+      "caption": ""
+    }
+,
+     {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/Website/17.png?updatedAt=1761413133320",
+      "alt_text": "",
+      "caption": ""
+    }
+    ,
+     {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/Website/18.png?updatedAt=1761413133298",
+      "alt_text": "",
+      "caption": ""
+    }
   ]
 }
 
