@@ -1,39 +1,134 @@
 [
 {
-  "id": "poster-empire-billiards-club",
-  "project_name": "Poster Design - Empire Billiards Club",
-  "project_thumbnail_url": "https://ik.imagekit.io/ljvorpiit/Empire%20billards/1.jpg?updatedAt=1752680182583",
-  "project_category": "Poster",
-  "project_date": "June 15, 2025",
-  "client_name": "Empire Billiards Club",
-  "project_summary": "Promotional poster design for Empire Billiards Club, highlighting its 24/7 operations, spacious venue, and premium entertainment experience.",
-  "project_description_detailed": "A bold black-and-gold poster showcasing the club’s key amenities: entrance lobby, bar, and high-end billiards area. Main messages include 'Open 24H', '400m² space', and 'VIP equipment', aimed at attracting modern, urban billiards enthusiasts.",
-  "tools_used": ["Adobe Photoshop", "Adobe Illustrator"],
+  "id": "Brouchure-Vietnamese Rice Dishes",
+  "project_name": "Brouchure - Vietnamese Rice Dishes – Explore the Soul of Vietnam",
+  "project_thumbnail_url": "https://ik.imagekit.io/Moon05/Brouchure/1.png?updatedAt=1761403533154",
+  "project_category": "Brouchure",
+  "project_date": "May 05, 2025",
+  "client_name": "Education - Van Lang University",
+  "project_summary": "An educational infographic highlighting the cultural significance of rice dishes in Vietnam. The design explores how rice connects Vietnam’s regions — North, Central, and South — through traditional dishes like bamboo tube sticky rice, Hoi An chicken rice, and Saigon broken rice.",
+  "project_description_detailed": "Showcases how rice connects Vietnam’s culture and regions — from bamboo tube sticky rice in the North, Hoi An chicken rice in the Central region, to Saigon broken rice in the South. The design blends visuals and storytelling to honor Vietnamese food heritage.",
+  "tools_used": ["Adobe Illustrator", "Photoshop", "Canva"],
   "project_live_url": "",
   "project_case_study_url": "",
   "media": [
     {
       "type": "image",
-      "url": "https://ik.imagekit.io/ljvorpiit/Empire%20billards/1.jpg?updatedAt=1752680182583",
-      "alt_text": "Promotional poster for Empire Billiards Club – a high-end billiards venue open 24/7 in Hanoi.",
-      "caption": "Poster highlighting luxurious interior, bar, and 24H operation – appealing to sports and nightlife lovers."
+      "url": "https://ik.imagekit.io/Moon05/Brouchure/1.png?updatedAt=1761403533154",
+      "alt_text": "",
+      "caption": ""
     },
     {
       "type": "image",
-      "url": "https://ik.imagekit.io/ljvorpiit/Empire%20billards/2.jpg?updatedAt=1752680182728",
-      "alt_text": "Empire Billiards Club grand opening poster – exciting promotions from July 1 to July 15.",
-      "caption": "Grand opening poster featuring limited-time offers: free play, discounts, and complimentary drinks/snacks."
+      "url": "https://ik.imagekit.io/Moon05/Brouchure/Nh%C3%A1p%20Brouchure.png?updatedAt=1761403538068",
+      "alt_text": "",
+      "caption": ""
     },
     {
       "type": "image",
-      "url": "https://ik.imagekit.io/ljvorpiit/Empire%20billards/3.jpg?updatedAt=1752680182874",
-      "alt_text": "Empire Billiards Club poster – Tournament-grade billiards experience with high-end tables and spacious venue.",
-      "caption": "Poster showcasing professional-grade setup with RASSON tables, VIP zones, and CPBA-standard equipment."
+      "url": "https://ik.imagekit.io/Moon05/Brouchure/321baa46d1cb5c9505da3.jpg?updatedAt=1761404433115",
+      "alt_text": "",
+      "caption": "" 
+    },
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Brouchure/81ae12f3697ee420bd6f4.jpg?updatedAt=1761404433330",
+      "alt_text": "",
+      "caption": "" 
     }
+    ,
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Brouchure/24f4caa9b1243c7a65355.jpg?updatedAt=1761404433381",
+      "alt_text": "",
+      "caption": "" 
+    }
+    ,
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Brouchure/9fa3ab03d08e5dd0049f6.jpg?updatedAt=1761404433374",
+      "alt_text": "",
+      "caption": "" 
+    }
+  
+  ]
+},
+
+{
+  "id": "cuoi hoi hanh phuc",
+  "project_name": "Hạnh Phúc – Dịch vụ trang trí cưới hỏi",
+  "project_thumbnail_url": "https://ik.imagekit.io/Moon05/H%E1%BA%A1nh%20Ph%C3%BAc/Banner%20%20Danh%20thi%E1%BA%BFp%20HP.png?updatedAt=1761404925785",
+  "project_category": "Brand Design | Business Card ",
+  "project_date": "September 30, 2024",
+  "client_name": "Hạnh Phúc",
+  "project_summary": "A branding project for “Hanh Phuc” wedding decoration service, reflecting love, warmth, and sophistication for modern wedding events.",
+  "project_description_detailed": "The design combines soft pink watercolor textures and golden highlights to evoke a sense of happiness and luxury. It enhances brand recognition while capturing the joyful and elegant spirit of Vietnamese weddings.",
+  "tools_used": ["Canva"],
+  "project_live_url": "",
+  "project_case_study_url": "",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/H%E1%BA%A1nh%20Ph%C3%BAc/Banner%20%20Danh%20thi%E1%BA%BFp%20HP.png?updatedAt=1761404925785",
+      "alt_text": "",
+      "caption": ""
+    },
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/H%E1%BA%A1nh%20Ph%C3%BAc/Banner%20%20Danh%20thi%E1%BA%BFp%20HP%20(1).png?updatedAt=1761404925470",
+      "alt_text": "",
+      "caption": ""
+    },
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/H%E1%BA%A1nh%20Ph%C3%BAc/image(1).png?updatedAt=1761406194736",
+      "alt_text": "",
+      "caption": ""
+    },
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/H%E1%BA%A1nh%20Ph%C3%BAc/image(2).png?updatedAt=1761406194775",
+      "alt_text": "",
+      "caption": ""
+    },
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/H%E1%BA%A1nh%20Ph%C3%BAc/image.png?updatedAt=1761406195242",
+      "alt_text": "",
+      "caption": ""
+    },
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/H%E1%BA%A1nh%20Ph%C3%BAc/image(3).png?updatedAt=1761406194768",
+      "alt_text": "",
+      "caption": ""
+    }
+    
+  ]
+},
+
+{
+  "id": "dv cuoi hoi hanh phuc",
+  "project_name": "Hạnh Phúc – Dịch vụ trang trí cưới hỏi",
+  "project_thumbnail_url": "https://ik.imagekit.io/Moon05/H%E1%BA%A1nh%20Ph%C3%BAc/Logo%20C%C6%B0%E1%BB%9Bi%20H%E1%BB%8Fi%20HP%20(2).png?updatedAt=1761405480214",
+  "project_category": "Logo Design | Branding",
+  "project_date": "September 30, 2024",
+  "client_name": "Hạnh Phúc",
+  "project_summary": "A modern yet delicate logo representing the elegance and warmth of “Hanh Phuc” wedding decoration service.",
+  "project_description_detailed": "The logo combines a graceful handwritten font with a floral wreath, symbolizing love, unity, and happiness. The soft beige background and pastel leaves evoke sophistication and serenity, perfectly aligning with the brand’s romantic wedding aesthetic.",
+  "tools_used": ["Canva"],
+  "project_live_url": "",
+  "project_case_study_url": "",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/H%E1%BA%A1nh%20Ph%C3%BAc/Logo%20C%C6%B0%E1%BB%9Bi%20H%E1%BB%8Fi%20HP%20(2).png?updatedAt=1761405480214",
+      "alt_text": "",
+      "caption": ""
+    }
+    
   ]
 }
-
-
 
 
 ]

@@ -8,9 +8,9 @@
   "phone_number": "0344794500",
   "social_links": [
     {
-      "platform": "Behance",
-      "url": "https://www.behance.net/hunguynngc4",
-      "icon_class": "./images/Icon_socical/behance.png"
+      "platform": "Linkedin",
+      "url": "https://www.linkedin.com/in/thi-ngoc-hue-nguyen-a349b5377/",
+      "icon_class": "./images/Icon_socical/linkedin.png"
     },
     {
       "platform": "Facebook",
@@ -50,16 +50,14 @@
     "Microsoft Office",
     "Capcut",
     "Canva",
-    "Google Space",
-    "SPSS",
-    "AMOS"
+    "Google Space"
 ],
  "work_experience": [
   {
     "job_title": "Cộng tác viên Content & Tư vấn khách hàng",
-    "company_name": "Hanh Phuc Wedding Decor - Ho Chi Minh",
+    "company_name": "Dịch vụ trang trí cưới hỏi Hạnh Phúc – Hồ Chí Minh City",
     "company_logo_url": "images/icon_experience/icon_cay_co.png",
-    "duration": "07/2021 - Nay",
+    "duration": "09/2023 - Nay",
     "responsibilities": [
       "Viết nội dung và đăng bài trên Fanpage Facebook (giới thiệu concept, feedback khách hàng, mini game...).",
       "Tư vấn gói dịch vụ, báo giá và chăm sóc khách hàng qua tin nhắn, điện thoại.",
@@ -71,7 +69,7 @@
     "job_title": "Nhân viên bán hàng mỹ phẩm",
     "company_name": "The Beauty Kiwi – TP. Hồ Chí Minh",
     "company_logo_url": "images/icon_experience/icon_cay_co.png",
-    "duration": "",
+    "duration": "02/2022 - 09/2023",
     "responsibilities": [
       "Tư vấn sản phẩm phù hợp với từng loại da và nhu cầu của khách hàng.",
       "Chốt đơn online và tại cửa hàng, trung bình 50–100 đơn/tháng.",

@@ -8,9 +8,9 @@
   "phone_number": "0344794500",
   "social_links": [
     {
-      "platform": "Behance",
-      "url": "https://www.behance.net/hunguynngc4",
-      "icon_class": "./images/Icon_socical/behance.png"
+      "platform": "Linkedin",
+      "url": "https://www.linkedin.com/in/thi-ngoc-hue-nguyen-a349b5377/",
+      "icon_class": "./images/Icon_socical/linkedin.png"
     },
     {
       "platform": "Facebook",
@@ -50,14 +50,12 @@
     "Microsoft Office",
     "Capcut",
     "Canva",
-    "Google Space",
-    "SPSS",
-    "AMOS"
+    "Google Space"
   ],
   "work_experience": [
     {
       "job_title": "Content & Customer Service Collaborator",
-      "company_name": "Hạnh Phúc Wedding Decor – Hồ Chí Minh City",
+      "company_name": "Dịch vụ trang trí cưới hỏi Hạnh Phúc – Hồ Chí Minh City",
       "company_logo_url": "images/icon_experience/icon_cay_co.png",
       "duration": "09/2023 - Present",
       "responsibilities": [
