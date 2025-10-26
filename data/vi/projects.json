@@ -187,7 +187,7 @@
   "project_name": "VLU Study",
   "project_thumbnail_url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Home.png?updatedAt=1761412283063",
   "project_category": "Landing Page",
-  "project_date": "July 30, 2023",
+  "project_date": "30 tháng 07 năm 2023",
   "client_name": "Education - Van Lang University",
   "project_summary": "Landing page giới thiệu VLU Study – kho tài liệu học tập khổng lồ, cung cấp giáo trình, bài giảng, đề thi và tài liệu tham khảo cho sinh viên Đại học Văn Lang.",
   "project_description_detailed": "Thiết kế mang phong cách hiện đại, thể hiện sự năng động và tinh thần học hỏi không ngừng của sinh viên. Poster nhấn mạnh 4 ưu điểm nổi bật: Kho tài liệu đa ngành, Chất lượng đảm bảo, Tìm kiếm thông minh, và Tải miễn phí không giới hạn – giúp sinh viên tiếp cận tri thức mọi lúc, mọi nơi.",
@@ -253,7 +253,7 @@
   "project_name": "VLU Study",
   "project_thumbnail_url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/Landing%20page/Website/9.png?updatedAt=1761413133313",
   "project_category": "Web Design",
-  "project_date": "July 30, 2023",
+  "project_date": "30 tháng 07 2023",
   "client_name": "Education - Van Lang University",
   "project_summary": "VLU Study là nền tảng học tập trực tuyến dành cho sinh viên Đại học Văn Lang, cung cấp miễn phí giáo trình, bài giảng, đề thi và tài liệu học tập của tất cả các khoa.",
   "project_description_detailed": "Website được thiết kế với giao diện thân thiện, dễ sử dụng, giúp sinh viên dễ dàng tìm kiếm, xem và tải tài liệu đã được kiểm duyệt. Hệ thống phân loại rõ ràng, cập nhật liên tục và có tính năng tương tác cộng đồng, hỗ trợ sinh viên chia sẻ và học hỏi hiệu quả hơn.",
@@ -323,6 +323,157 @@
       "alt_text": "",
       "caption": ""
     }
+  ]
+}
+,
+
+{
+  "id": "Học tập 6",
+  "project_name": "QHCC - Ra mắt sản phẩm mới",
+  "project_thumbnail_url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/QHCC/Gi%E1%BB%9Bi%20thi%E1%BB%87u%20Kh%C3%A1ch%20m%E1%BB%9Di.jpg?updatedAt=1761494230998",
+  "project_category": "Sự Kiện",
+  "project_date": "30 tháng 04 năm 2025",
+  "client_name": "Education - Van Lang University",
+  "project_summary": "Chiến dịch ra mắt dòng nước tẩy trang màu tím của L’Oréal, tập trung vào việc truyền tải thông điệp “Làm sạch sâu – Dịu nhẹ tối đa”, hướng đến nhóm khách hàng trẻ yêu thích sản phẩm chăm sóc da hiệu quả và hiện đại.",
+  "project_description_detailed": "Thiết kế truyền thông thể hiện hình ảnh sang trọng, nữ tính với tông tím lavender chủ đạo, kết hợp hiệu ứng ánh sáng trong suốt và bọt nước để gợi cảm giác sạch mịn, tươi mát. Thông điệp nhấn mạnh sự đổi mới trong công nghệ micellar của L’Oréal – phù hợp cho mọi loại da, kể cả da nhạy cảm.",
+  "tools_used": ["Canva", "Adobe Photoshop", "Illustrator"],
+  "project_live_url": "",
+  "project_case_study_url": "",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/QHCC/Logoloreal.jpg?updatedAt=1761494057107",
+      "alt_text": "",
+      "caption": "Ảnh đại diện"
+    },
+    
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/QHCC/bannerloreal.png?updatedAt=1761494057188",
+      "alt_text": "",
+      "caption": "Ảnh bìa"
+    },
+    
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/QHCC/sanphammoi%20thongbao.jpg?updatedAt=1761494057080",
+      "alt_text": "",
+      "caption": "Thông báo ra mắt sản phẩm mới"
+    },
+    
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/QHCC/minigame.jpg?updatedAt=1761494057200",
+      "alt_text": "",
+      "caption": "Mini game - Dự đoán số trúng quà ngay!"
+    },
+    
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/QHCC/dudoan%20ca%20si%20khach%20moi.jpg?updatedAt=1761494057077",
+      "alt_text": "",
+      "caption": "Dự đoán ca sĩ khách mời của sự kiện"
+    },
+    
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/QHCC/casikhachmoi.jpg?updatedAt=1761494057031",
+      "alt_text": "",
+      "caption": "Công bố ca sĩ khách mời"
+    },
+    
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/QHCC/chuyengiayte.jpg?updatedAt=1761494057052",
+      "alt_text": "",
+      "caption": "Công bố chuyên gia y tế"
+    },
+    
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/QHCC/kol%20khach%20moi.jpg?updatedAt=1761494057096",
+      "alt_text": "",
+      "caption": "Khách mời đặc biệt của sự kiện"
+    },
+    
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/QHCC/mc.jpg?updatedAt=1761494057058",
+      "alt_text": "",
+      "caption": "MC của sự kiện"
+    },
+    
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/QHCC/ve%20tham%20du.jpg?updatedAt=1761494057141",
+      "alt_text": "",
+      "caption": "Vé tham dự sự kiện"
+    },
+    
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/QHCC/minigame%20-%20nh%E1%BA%AFc%20l%E1%BA%A1i.jpg?updatedAt=1761494057029",
+      "alt_text": "",
+      "caption": "Mini game - Dự đoán ngay trúng quà hot!"
+    },
+    
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/QHCC/li%20do%20nen%20tham%20gia%20su%20kien.jpg?updatedAt=1761494057101",
+      "alt_text": "",
+      "caption": "Lý do tại sao không nên bỏ lỡ sự kiện"
+    },
+    
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/QHCC/bi%20kiep%20di%20su%20kien.jpg?updatedAt=1761494057006",
+      "alt_text": "",
+      "caption": "Bí kíp đi sự kiện"
+    },
+    
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/QHCC/ket%20qua%20cua%20minigame.jpg?updatedAt=1761494057093",
+      "alt_text": "",
+      "caption": "Kết quả của minigame"
+    },
+    
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Van%20Lang%20University/QHCC/coutdown%2012h.jpg?updatedAt=1761494057170",
+      "alt_text": "",
+      "caption": "CountDown"
+    }
+  ]
+}
+,
+
+{
+  "id": "Freelancer1",
+  "project_name": "Ngày nhà giáo Việt Nam 20/11",
+  "project_thumbnail_url": "https://ik.imagekit.io/Moon05/Nh%C3%A1p/B%C3%A0i%20%C4%91%C4%83ng%20Facebook%20Ch%C3%BAc%20m%E1%BB%ABng%20Nh%C3%A0%20gi%C3%A1o%20Vi%E1%BB%87t%20nam%202011%20Hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20T%E1%BB%91i%20gi%E1%BA%A3n%20Xanh%20v%C3%A0ng.png?updatedAt=1761415158905",
+  "project_category": "Poster",
+  "project_date": "20 tháng 11 năm 2024",
+  "client_name": "Seft-Make",
+  "project_summary": "Thiết kế hình ảnh chúc mừng Ngày Nhà Giáo Việt Nam (20/11) với phong cách minh họa tươi sáng, dễ thương, lan tỏa thông điệp biết ơn và yêu thương đến thầy cô giáo.",
+  "project_description_detailed": "Bức minh họa thể hiện sự gắn bó giữa thầy cô và học sinh qua nét vẽ hoạt hình chibi, kết hợp màu sắc nhẹ nhàng, tươi vui cùng khung cảnh hoa hồng rực rỡ. Tác phẩm truyền tải thông điệp: “Tri ân thầy cô – Người gieo mầm tri thức và yêu thương.”",
+  "tools_used": ["Canva"],
+  "project_live_url": "",
+  "project_case_study_url": "",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Nh%C3%A1p/Xanh%20d%C6%B0%C6%A1ng%20h%E1%BB%93ng%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20n%E1%BB%AF%20t%C3%ADnh%20ph%E1%BB%A5%20n%E1%BB%AF%20Vi%E1%BB%87t%20Nam%20Instagram%20story.png?updatedAt=1761415075871",
+      "alt_text": "",
+      "caption": "Poster tri ân ngày 20.11"
+    },
+    {
+      "type": "image",
+      "url": "https://ik.imagekit.io/Moon05/Nh%C3%A1p/Hoa%20Sen%20M%C3%A0u%20N%C6%B0%E1%BB%9Bc%20L%E1%BB%9Di%20Ch%C3%BAc%20Tri%20%C3%82n%20Th%E1%BA%A7y%20C%C3%B4%20Ng%C3%A0y%202011%20B%C3%A0i%20%C4%90%C4%83ng%20Facebook.png?updatedAt=1761415075835",
+      "alt_text": "",
+      "caption": "Poster tri ân ngày 20.11"
+    }
+
   ]
 }
 
